@@ -1,1 +1,2 @@
 # LLM-Powered-Agentic-Travel-Planner
+Developed an AI-powered Agentic Travel Planner using LLMs to generate personalized, end-to-end travel itineraries from natural language queries. Integrated LangGraph, RAG (FAISS), and real-time APIs with FastAPI and Streamlit for intelligent data retrieval and conversational planning. Achieved efficient multi-step reasoning with low latency and scalable system architecture.
